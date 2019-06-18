@@ -16,3 +16,7 @@ Concurrency
 Cryptography
 ------------
 * [Dining Cryptographers Problem](https://en.wikipedia.org/wiki/Dining_cryptographers_problem)
+
+Graph
+-----
+* [Travelling Salesmen Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
