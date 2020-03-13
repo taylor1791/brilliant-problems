@@ -1,7 +1,7 @@
 Brilliant Problems
 ==================
 
-A brilliant list of problems
+A list of brilliant problems.
 
 Assignment Problems
 -------------------
