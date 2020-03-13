@@ -17,6 +17,10 @@ Cryptography
 ------------
 * [Dining Cryptographers Problem](https://en.wikipedia.org/wiki/Dining_cryptographers_problem)
 
+Distributed Systems
+-------------------
+* [Two Generals' Problem](https://en.wikipedia.org/wiki/Two_Generals%27_Problem)
+
 Graph
 -----
 * [Travelling Salesmen Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
