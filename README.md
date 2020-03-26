@@ -20,6 +20,7 @@ Computational Geometry
 ---------------------
 * [Convex Hull](https://en.wikipedia.org/wiki/Convex_hull)
 * [Facility Location Problem](https://en.wikipedia.org/wiki/Facility_location_problem)
+* [Weber Problem](https://en.wikipedia.org/wiki/Weber_problem)
 
 Concurrency
 -----------
