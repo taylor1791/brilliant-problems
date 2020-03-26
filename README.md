@@ -30,3 +30,4 @@ Distributed Systems
 Graph
 -----
 * [Travelling Salesmen Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+* [Closure Problem](https://en.wikipedia.org/wiki/Closure_problem)
