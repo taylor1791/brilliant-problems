@@ -11,6 +11,7 @@ Assignment Problems
 * [Linear Bottleneck Assignment Problem](https://en.wikipedia.org/wiki/Linear_bottleneck_assignment_problem)
 * [Linear Assignment Problem](https://en.wikipedia.org/wiki/Assignment_problem) - Optimal assignment, bipartite, one to one
 * [Quadratic Assignment Problem](https://en.wikipedia.org/wiki/Quadratic_assignment_problem)
+* [Quadratic Bottleneck Assignment Problem](https://en.wikipedia.org/wiki/Quadratic_bottleneck_assignment_problem)
 * [Stable Marriage Problem](https://en.wikipedia.org/wiki/Stable_marriage_problem) - Stable assignmen, bipartite, one to one
 * [Stable Roommates Problem](https://en.wikipedia.org/wiki/Stable_roommates_problem) - one to one
 * [Weapon Target Assignment Problem](https://en.wikipedia.org/wiki/Weapon_target_assignment_problem)
