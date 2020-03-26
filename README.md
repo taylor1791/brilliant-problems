@@ -7,6 +7,7 @@ Assignment Problems
 -------------------
 * [Generalized Assignment Problem](https://en.wikipedia.org/wiki/Generalized_assignment_problem)
 * [Hospital Residents Problem](https://en.wikipedia.org/wiki/National_Resident_Matching_Program#Matching_algorithm) - Bipartite, one to many
+* [Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem)
 * [Linear Bottleneck Assignment Problem](https://en.wikipedia.org/wiki/Linear_bottleneck_assignment_problem)
 * [Linear Assignment Problem](https://en.wikipedia.org/wiki/Assignment_problem) - Optimal assignment, bipartite, one to one
 * [Stable Marriage Problem](https://en.wikipedia.org/wiki/Stable_marriage_problem) - Stable assignmen, bipartite, one to one
@@ -28,7 +29,3 @@ Distributed Systems
 Graph
 -----
 * [Travelling Salesmen Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
-
-Optimization
-------------
-* [Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem)
