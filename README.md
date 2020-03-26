@@ -16,6 +16,10 @@ Assignment Problems
 * [Stable Roommates Problem](https://en.wikipedia.org/wiki/Stable_roommates_problem) - one to one
 * [Weapon Target Assignment Problem](https://en.wikipedia.org/wiki/Weapon_target_assignment_problem)
 
+Computational Geometry
+---------------------
+* [Convex Hull](https://en.wikipedia.org/wiki/Convex_hull)
+
 Concurrency
 -----------
 * [Dining Philosophers Problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
