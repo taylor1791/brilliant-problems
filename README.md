@@ -38,6 +38,7 @@ Distributed Systems
 Graph
 -----
 * [Closure Problem](https://en.wikipedia.org/wiki/Closure_problem)
+* [Shortest Path Problem](https://en.wikipedia.org/wiki/Shortest_path_problem)
 * [Travelling Salesmen Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 * [Vertex k-Center Problem](https://en.wikipedia.org/wiki/Vertex_k-center_problem)
 
