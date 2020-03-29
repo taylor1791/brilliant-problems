@@ -42,6 +42,10 @@ Graph
 * [Travelling Salesmen Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 * [Vertex k-Center Problem](https://en.wikipedia.org/wiki/Vertex_k-center_problem)
 
+Number Theory
+-------------
+* [Integer factorization](https://en.wikipedia.org/wiki/Integer_factorization)
+
 Transportation
 --------------
 * [Monge-Kantorovich Problem](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics))
